@@ -1,16 +1,33 @@
-# genggam_dana_fixed
+# Genggam Dana - Aplikasi Manajemen Keuangan
 
-A new Flutter project.
+![Dashboard](https://raw.githubusercontent.com/Andikafirdaus/aplikasi-manajemen-keuangan-genggam-dana/main/screenshots/dashboard.png)
 
-## Getting Started
+Aplikasi Flutter untuk mengelola keuangan pribadi dengan Firebase.
 
-This project is a starting point for a Flutter application.
+## 📸 Screenshots
+| Beranda | Statistik | Login |
+|---------|-----------|-------|
+| <img src="https://raw.githubusercontent.com/Andikafirdaus/aplikasi-manajemen-keuangan-genggam-dana/main/screenshots/dashboard.png" width="200"> | <img src="https://raw.githubusercontent.com/Andikafirdaus/aplikasi-manajemen-keuangan-genggam-dana/main/screenshots/statistics.png" width="200"> | <img src="https://raw.githubusercontent.com/Andikafirdaus/aplikasi-manajemen-keuangan-genggam-dana/main/screenshots/login.png" width="200"> |
 
-A few resources to get you started if this is your first Flutter project:
+## ✨ Fitur Utama
+- ✅ Login/Register dengan Firebase Auth
+- ✅ Catat pemasukan & pengeluaran
+- ✅ Dashboard dengan statistik real-time
+- ✅ Grafik visualisasi keuangan
+- ✅ Manajemen kategori transaksi
+- ✅ Notifikasi sistem anggaran
+- ✅ Keamanan dengan Firebase
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## 🚀 Cara Menjalankan
+```bash
+# Clone repository
+git clone [https://github.com/Andikafirdaus/aplikasi-manajemen-keuangan-genggam-dana.git](https://github.com/Andikafirdaus/aplikasi-manajemen-keuangan-genggam-dana.git)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+# Masuk ke folder
+cd genggam-dana
+
+# Install dependencies
+flutter pub get
+
+# Run aplikasi
+flutter run
