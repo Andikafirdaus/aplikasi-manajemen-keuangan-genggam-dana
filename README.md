@@ -33,4 +33,4 @@ flutter pub get
 flutter run
 
 
-Menyelesaikan isi README.md dan memperbaiki link screenshot
+
