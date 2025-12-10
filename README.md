@@ -31,3 +31,6 @@ flutter pub get
 
 # Run aplikasi
 flutter run
+
+
+Menyelesaikan isi README.md dan memperbaiki link screenshot
