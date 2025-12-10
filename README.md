@@ -7,7 +7,7 @@ Aplikasi Flutter untuk mengelola keuangan pribadi dengan Firebase.
 ## 📸 Screenshots
 | Beranda | Statistik | Login |
 |---------|-----------|-------|
-| <img src="https://raw.githubusercontent.com/Andikafirdaus/aplikasi-manajemen-keuangan-genggam-dana/main/screenshots/dashboard.png" width="200"> | <img src="https://raw.githubusercontent.com/Andikafirdaus/aplikasi-manajemen-keuangan-genggam-dana/main/screenshots/statistics.png" width="200"> | <img src="https://raw.githubusercontent.com/Andikafirdaus/aplikasi-manajemen-keuangan-genggam-dana/main/screenshots/login.png" width="200"> |
+| <img src="assets/screenshots/screenshot_beranda.png" width="200"> | <img src="assets/screenshots/screenshot_statistik.png" width="200"> | <img src="assets/screenshots/login.png" width="200"> |
 
 ## ✨ Fitur Utama
 - ✅ Login/Register dengan Firebase Auth
