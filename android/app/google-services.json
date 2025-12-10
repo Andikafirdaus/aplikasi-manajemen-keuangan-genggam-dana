@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "679617301254",
+    "project_id": "genggam-dana-app",
+    "storage_bucket": "genggam-dana-app.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:679617301254:android:36c1156f46d841c3606c87",
+        "android_client_info": {
+          "package_name": "com.example.flutter_application_2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBkiNMcY2xQcOkl0zA0vATIB6HO4_Cf3EQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
